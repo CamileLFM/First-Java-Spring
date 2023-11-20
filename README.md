@@ -4,7 +4,6 @@ This is my first project using Java and Spring. I'm developing it following the 
 
 "The application is about querying game information, allowing interaction with them."
 
-# Tecnologias utilizadas
 ## Back end
 - Java
 - Spring Boot
@@ -20,7 +19,7 @@ This is my first project using Java and Spring. I'm developing it following the 
 -->
 
 ## Implantação em produção
-- Banco de dados: h2 console
+- Database(test): h2
 
 
 <!--
