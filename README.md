@@ -18,7 +18,6 @@ This is my first project using Java and Spring. I'm developing it following the 
 - Expo
 -->
 
-## Implantação em produção
 - Database(test): h2
 
 
