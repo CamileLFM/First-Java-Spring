@@ -4,11 +4,10 @@ This is my first project using Java and Spring. I'm developing it following the 
 
 "The application is about querying game information, allowing interaction with them."
 
-## Back end
+##
 - Java
 - Spring Boot
 - JPA / Hibernate
-  
 <!--
 ## Front end
 - HTML / CSS / JS / TypeScript
@@ -17,7 +16,6 @@ This is my first project using Java and Spring. I'm developing it following the 
 - Apex Charts
 - Expo
 -->
-
 - Database(test): h2
 
 
